@@ -1,5 +1,7 @@
 <img src="https://github.com/jefthah/jefthah/blob/main/wave%20(1).svg" alt="Hero image">
-### Hi I am Jefta Supraja👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Jefta+Supraja!;" />
+</h1>
 
 # 💫 About Me:
 🔭 Mahasiswa IT UPN Veteran Jakarta<br>👯 Freelance Video Editor and Designer<br>⚡ Fun fact I love Playing Valorant
